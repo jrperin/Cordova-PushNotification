@@ -36,6 +36,6 @@ After this, just send a Push in the server (must be local, because the default c
 root@Server ~/pushd # curl -d title=Hi%20there -d msg=This%20is%20a%20Push! http://localhost:7080/event/myusername
 ```
 
-![Push Received](/img/screenshot01.jpg?raw=true "Push Received")
+![Push Received](/img/screenshot01.png?raw=true "Push Received")
 
 Feel free to complement, comment, hack, fork and let's go!
